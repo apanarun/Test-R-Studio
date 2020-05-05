@@ -1,0 +1,1 @@
+print("Hello to RScript and Commiting it to git using Rstudio")
